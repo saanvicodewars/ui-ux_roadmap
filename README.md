@@ -37,7 +37,7 @@
 - **Journey Mapping**: List the steps someone takes to **sign up** and **order** in the app (e.g., download app → make an account → choose groceries → place order → receive delivery).
 
 ### Resources:
-- [User Personas Guide](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+- [User Personas Guide](https://maze.co/guides/user-personas/#:~:text=A%20user%20persona%20is%20a,Make%20informed%20product%20decisions)
 - [Journey Mapping for Beginners](https://uxdesign.cc/a-beginners-guide-to-customer-journey-mapping-26c7f9799702)
 
 ---
