@@ -11,7 +11,7 @@
 2. **Mini-Task**: Use a platform like Canva to design a simple poster using the design principles.
 
 ### Resources:
-- [What is UI/UX? (Blog)](https://www.interaction-design.org/literature/topics/ui-vs-ux)
+- [What is UI/UX? (Blog)]([https://www.interaction-design.org/literature/topics/ui-vs-ux](https://www.figma.com/resource-library/difference-between-ui-and-ux/)
 - [Canva (Design Tool)](https://www.canva.com)
 
 ---
