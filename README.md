@@ -4,30 +4,21 @@
 ## 1. Introduction to Design
 ### Key Topics:
 - **What is UI/UX?**: Understanding the difference between User Interface (UI) and User Experience (UX).
-- **Basic Design Principles**: Contrast, alignment, proximity, repetition, and balance.
-
-### Tasks:
-1. **Research & Write**: In your own words, explain the difference between UI and UX. Use examples from apps or websites you use daily.
-2. **Mini-Task**: Use a platform like Canva to design a simple poster using the design principles.
-
-### Resources:
-- [What is UI/UX? (Blog)]([https://www.interaction-design.org/literature/topics/ui-vs-ux](https://www.figma.com/resource-library/difference-between-ui-and-ux/)
-- [Canva (Design Tool)](https://www.canva.com)
-
----
-
-## 2. Visual Design Basics
-### Key Topics:
+- **Basic Design Principles**: Contrast, alignment, proximity, repetition, balance.
 - **Color Theory**: How colors influence user emotions and actions.
 - **Typography**: The importance of font pairing and hierarchy.
 
+
 ### Tasks:
-1. **Color Task**: Pick two apps/websites and analyze their color schemes. Why do you think the colors were chosen?
-2. **Typography Task**: Explore Google Fonts, and pair two fonts for a fictional app homepage.
+1. **Mini-Task**: Use a platform like Canva to design a simple poster using the design principles.
+2. **Color Task**: Pick two apps/websites and analyze their color schemes. Why do you think the colors were chosen?
+3. **Typography Task**: Explore Google Fonts, and pair two fonts for a fictional app homepage.
 
 ### Resources:
-- [Color Psychology (Article)](https://www.verywellmind.com/the-color-psychology-of-red-2795821)
-- [Google Fonts (Typography Resource)](https://fonts.google.com)
+- [What is UI/UX?](https://www.figma.com/resource-library/difference-between-ui-and-ux/)
+- [Design elements and principles](https://www.canva.com/learn/design-elements-principles/)
+- [Color Psychology](https://bootcamp.uxdesign.cc/ux-ui-color-psychology-521cd5423527)
+- [Google Fonts](https://fonts.google.com)
 
 ---
 
