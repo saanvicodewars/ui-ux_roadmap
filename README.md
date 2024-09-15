@@ -22,18 +22,23 @@
 
 ---
 
-## 3. User-Centered Design
+## 2. User-Centered Design
+
 ### Key Topics:
-- **Understanding Users**: Create user personas based on target audience.
-- **User Journey Mapping**: Visualizing the steps users take when interacting with a product.
+1. **Understanding Users**: Learn who your users are by creating **user personas** (simple profiles of your ideal users).
+2. **User Journey Mapping**: Think about the steps a user takes when using a product, like an app.
 
 ### Tasks:
-1. **Persona Creation**: Create a persona for a grocery delivery app user (include their demographics, goals, and pain points).
-2. **Journey Mapping**: Map out the user journey for signing up and ordering on a delivery app.
+- **Persona Creation**: Make a profile for a grocery delivery app user. Include:
+  - Who they are (age, job)
+  - What they want (quick delivery, easy app)
+  - What annoys them (slow delivery, confusing app)
+
+- **Journey Mapping**: List the steps someone takes to **sign up** and **order** in the app (e.g., download app → make an account → choose groceries → place order → receive delivery).
 
 ### Resources:
-- [User Personas Guide (Article)](https://www.interaction-design.org/literature/article/why-personas-are-important-in-ux-design)
-- [Journey Mapping 101 (Guide)](https://www.nngroup.com/articles/customer-journey-mapping/)
+- [User Personas Guide](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)
+- [Journey Mapping for Beginners](https://uxdesign.cc/a-beginners-guide-to-customer-journey-mapping-26c7f9799702)
 
 ---
 
